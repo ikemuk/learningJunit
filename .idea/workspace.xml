@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="956a6f94-997d-4592-84ca-403d54b65aa0" name="Default" comment="" />
+    <list default="true" id="956a6f94-997d-4592-84ca-403d54b65aa0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Chapter6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Chrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/Opera.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="learningJunit.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -59,43 +64,46 @@
     <ui_properties />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FavoritesManager">
     <favorites_list name="learningJunit" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HomePage.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/HomePage.java">
+      <file leaf-file-name="Chapter6.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Chapter6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="68" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="510">
+            <state line="24" column="105" selection-start="703" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter2.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/Chapter2.java">
+      <file leaf-file-name="Chrome.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Chrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="1" selection-start="160" selection-end="302" vertical-scroll-proportion="0.22857143" vertical-offset="0" max-vertical-offset="595">
+            <state line="46" column="23" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1020">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BestPractises3.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/BestPractises3.java">
+      <file leaf-file-name="Opera.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Opera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="9" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="714">
+            <state line="23" column="53" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="findElements.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/findElements.java">
+      <file leaf-file-name="IEdriver.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/IEdriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="29" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="1071">
-              <folding />
+            <state line="38" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.5714286" vertical-offset="306" max-vertical-offset="901">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -118,6 +126,10 @@
         <option value="$PROJECT_DIR$/src/main/Chapter2.java" />
         <option value="$PROJECT_DIR$/src/test/BestPractises3.java" />
         <option value="$PROJECT_DIR$/src/test/findElements.java" />
+        <option value="$PROJECT_DIR$/src/test/Chapter6.java" />
+        <option value="$PROJECT_DIR$/src/test/Chrome.java" />
+        <option value="$PROJECT_DIR$/src/test/Opera.java" />
+        <option value="$PROJECT_DIR$/src/test/IEdriver.java" />
       </list>
     </option>
   </component>
@@ -152,14 +164,52 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="learningJunit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learningJunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learningJunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="learningJunit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -174,14 +224,71 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.findElements">
-    <configuration default="false" name="BestPractises3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IEdriver.testExamplesIE">
+    <configuration default="false" name="Chapter6.testExamples" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learningJunit" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BestPractises3" />
+      <option name="MAIN_CLASS_NAME" value="Chapter6" />
+      <option name="METHOD_NAME" value="testExamples" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Chrome.testExampleChrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learningJunit" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Chrome" />
+      <option name="METHOD_NAME" value="testExampleChrome" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Chrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learningJunit" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Chrome" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -198,14 +305,36 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="findElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Opera.testExamplesOpera" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="learningJunit" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="findElements" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="Opera" />
+      <option name="METHOD_NAME" value="testExamplesOpera" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="IEdriver.testExamplesIE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learningJunit" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IEdriver" />
+      <option name="METHOD_NAME" value="testExamplesIE" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -347,14 +476,20 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.BestPractises3" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.findElements" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Chapter6.testExamples" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Chrome.testExampleChrome" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Chrome" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Opera.testExamplesOpera" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.IEdriver.testExamplesIE" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.findElements" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.BestPractises3" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.IEdriver.testExamplesIE" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Chrome.testExampleChrome" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Opera.testExamplesOpera" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Chrome" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Chapter6.testExamples" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -386,6 +521,11 @@
       <created>1389734679793</created>
       <updated>1389734679793</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;">
+      <created>1392453860422</created>
+      <updated>1392453860422</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -398,10 +538,11 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3993559" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -412,13 +553,12 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USERS">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
     </option>
   </component>
@@ -429,6 +569,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -438,6 +580,192 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/Chapter6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="105" selection-start="703" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Chrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="23" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Opera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IEdriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="16" selection-start="924" selection-end="924" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="901">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Chapter6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="105" selection-start="703" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Chrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="13" selection-start="515" selection-end="720" vertical-scroll-proportion="0.0" vertical-offset="527" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Opera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="261" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IEdriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0" vertical-offset="442" max-vertical-offset="901">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="68" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Chapter6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="11" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/BestPractises3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/findElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="29" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="68" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Chapter6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="29" selection-start="718" selection-end="718" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/BestPractises3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/findElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="29" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="68" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/BestPractises3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/findElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="68" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Chapter2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="6" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/BestPractises3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="9" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/findElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="29" selection-start="1720" selection-end="1720" vertical-scroll-proportion="0.0" vertical-offset="884" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="68" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
@@ -566,8 +894,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Chapter2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="1" selection-start="160" selection-end="302" vertical-scroll-proportion="0.22857143" vertical-offset="0" max-vertical-offset="595">
+        <state line="18" column="6" selection-start="395" selection-end="395" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/selenium-server-standalone-2.39.0.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="40" selection-start="388" selection-end="388" vertical-scroll-proportion="0.5279503" vertical-offset="0" max-vertical-offset="322" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Opera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="571" selection-end="571" vertical-scroll-proportion="0.0" vertical-offset="261" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Chapter6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="105" selection-start="703" selection-end="750" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Chrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="23" selection-start="1191" selection-end="1191" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/IEdriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="897" selection-end="897" vertical-scroll-proportion="0.5714286" vertical-offset="306" max-vertical-offset="901">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
